@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>686221918664-55v4cr1lhi76i9ofg4g5i07ct4s5oc16.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.686221918664-55v4cr1lhi76i9ofg4g5i07ct4s5oc16</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQTPVQMqVZzK2slqj8AqkupJ6PPU3mFxY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>686221918664</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codestronaut.habitomic</string>
+	<key>PROJECT_ID</key>
+	<string>habitomic-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habitomic-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:686221918664:ios:398552acb13d65788b80fd</string>
+</dict>
+</plist>
