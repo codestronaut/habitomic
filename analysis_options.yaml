@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false
+    prefer_relative_imports: true
+    directives_ordering: true
+    prefer_single_quotes: true
