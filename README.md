@@ -6,7 +6,7 @@ Habitomic is a lifestyle app to create habit plan, organize, get daily reminder,
 
 To run this project on VSCode, use the following `launch.json` configuration:
 
-'''json
+```json
 {
     "configurations": [
         {
@@ -77,6 +77,6 @@ To run this project on VSCode, use the following `launch.json` configuration:
         }
     ]
 }
-'''
+```
 
 Build with ❤️ and [Flutter](https://docs.flutter.dev/)
