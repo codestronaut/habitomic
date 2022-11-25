@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '686221918664',
     projectId: 'habitomic-app',
     storageBucket: 'habitomic-app.appspot.com',
-    iosClientId: '686221918664-55v4cr1lhi76i9ofg4g5i07ct4s5oc16.apps.googleusercontent.com',
+    iosClientId:
+        '686221918664-55v4cr1lhi76i9ofg4g5i07ct4s5oc16.apps.googleusercontent.com',
     iosBundleId: 'com.codestronaut.habitomic',
   );
 }
