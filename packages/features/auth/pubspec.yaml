@@ -1,0 +1,45 @@
+name: auth
+description: Features - Auth.
+version: 0.0.1
+
+publish_to: none
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  auth_repository:
+    path: ../../repositories/auth_repository
+  bloc: ^8.1.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_animate: ^2.0.1
+  flutter_bloc: ^8.1.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^1.1.6
+  formz: ^0.4.1
+  intl: ^0.17.0
+  ui_libs:
+    path: ../../ui_libs
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_gen_runner: ^5.1.0+1
+  build_runner: ^2.3.2
+
+flutter_gen:
+  output: lib/src/common/assets/
+  line_length: 80
+  integrations:
+    flutter_svg: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/

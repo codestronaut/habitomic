@@ -1,0 +1,41 @@
+<svg width="375" height="389" viewBox="0 0 375 389" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M197.589 204.589H263.794C300.359 204.589 330 234.23 330 270.794C330 307.359 300.359 337 263.794 337C227.23 337 197.589 307.359 197.589 270.794V204.589Z" fill="#F7C9B9"/>
+<mask id="mask0_4_766" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="197" y="204" width="133" height="133">
+<path d="M197.589 204.589H263.794C300.359 204.589 330 234.23 330 270.794C330 307.359 300.359 337 263.794 337C227.23 337 197.589 307.359 197.589 270.794V204.589Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_4_766)">
+<rect x="217.075" y="290.679" width="91.4151" height="59.1509" fill="#555576"/>
+<ellipse cx="262.783" cy="290.679" rx="45.7075" ry="9.67924" fill="#303048"/>
+<circle cx="244.829" cy="238.829" r="14.8294" fill="#EE7F6E"/>
+<path d="M281.435 226.78C285.141 223.073 291.15 223.073 294.857 226.78C298.563 230.486 298.563 236.495 294.857 240.202L246.202 288.857C242.495 292.563 236.486 292.563 232.78 288.857C229.073 285.15 229.073 279.141 232.78 275.435L281.435 226.78Z" fill="#EE7F6E"/>
+<circle cx="283.471" cy="277.471" r="14.8294" fill="#EE7F6E"/>
+</g>
+<rect x="45" y="52" width="132.411" height="285" rx="66.2057" fill="#50DFE5"/>
+<mask id="mask1_4_766" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="45" y="52" width="133" height="285">
+<rect x="45" y="52" width="132.411" height="285" rx="66.2057" fill="white"/>
+</mask>
+<g mask="url(#mask1_4_766)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65 166.077L65 210.248H89.8464V343.453H134.018L134.018 210.248V166.077L94.6389 166.077H89.8464L65 166.077Z" fill="#555576"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M178.189 299.281V166.077V121.906H134.018L109.171 121.906L65 166.077L109.171 166.077H134.018V299.281V343.453L178.189 299.281Z" fill="#303048"/>
+</g>
+<circle cx="263.794" cy="118.206" r="66.2057" fill="#B49EE2"/>
+<mask id="mask2_4_766" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="197" y="52" width="133" height="133">
+<circle cx="263.794" cy="118.206" r="66.2057" fill="white"/>
+</mask>
+<g mask="url(#mask2_4_766)">
+<rect x="227" y="79" width="131.208" height="110.214" rx="20" fill="#303048"/>
+<path d="M227 99C227 87.9543 235.954 79 247 79H338.208C349.253 79 358.208 87.9543 358.208 99V109.113H227V99Z" fill="#555576"/>
+<rect x="240.981" y="122.019" width="12.246" height="12.246" rx="4" fill="#B49EE2"/>
+<rect x="240.981" y="142.137" width="12.246" height="12.246" rx="4" fill="#B49EE2"/>
+<rect x="240.981" y="162.256" width="12.246" height="12.246" rx="4" fill="#B49EE2"/>
+<rect x="263.724" y="122.019" width="12.246" height="12.246" rx="4" fill="#B49EE2"/>
+<rect x="263.724" y="142.137" width="12.246" height="12.246" rx="4" fill="#B49EE2"/>
+<rect x="263.724" y="162.256" width="12.246" height="12.246" rx="4" fill="#555576"/>
+<rect x="286.466" y="122.019" width="12.246" height="12.246" rx="4" fill="#555576"/>
+<rect x="286.466" y="142.137" width="12.246" height="12.246" rx="4" fill="#555576"/>
+<rect x="286.466" y="162.256" width="12.246" height="12.246" rx="4" fill="#555576"/>
+<rect x="309.209" y="122.019" width="12.246" height="12.246" rx="4" fill="#555576"/>
+<rect x="309.209" y="142.137" width="12.246" height="12.246" rx="4" fill="#555576"/>
+<rect x="309.209" y="162.256" width="12.246" height="12.246" rx="4" fill="#555576"/>
+</g>
+</svg>
